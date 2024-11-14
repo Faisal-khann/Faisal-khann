@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faisal-khan-332b882bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faisal-khan-332b882bb/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faisal-khan-332b882bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal-khan-332b882bb" height="30" width="40" /></a>
 <a href="https://instagram.com/faisalkhan_23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisalkhan_23_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/faisalkhanfaisa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/faisalkhanfaisa1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/faisalkhan23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/faisalkhan23/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/faisalkhanfaisa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faisalkhanfaisa1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/faisalkhan23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faisalkhan23" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
